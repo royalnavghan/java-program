@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Santhosh {
+public class Solution {
     public static void main(String[] args) {
         int a;
         float b;
